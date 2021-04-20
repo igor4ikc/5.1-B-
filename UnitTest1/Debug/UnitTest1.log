@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\навчання\repos\lab 5\5.1(B)\5.1(B)\Vector2D.cpp(82,72): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     Создается библиотека D:\навчання\repos\lab 5\5.1(B)\Debug\UnitTest1.lib и объект D:\навчання\repos\lab 5\5.1(B)\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\навчання\repos\lab 5\5.1(B)\Debug\UnitTest1.dll
